@@ -1,6 +1,14 @@
 /*NAVIGATION BAR*/
+.navbar-header {
+	padding-left: 20px;
+}
 
-.navbar-brand div {
-	font-size: 5vw;
-	;
+.navbar-brand a {
+	padding-top: 10px;
+	font-size: 36px;
+	text-decoration: none;
+}
+
+li {
+	text-align: center;
 }
